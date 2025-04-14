@@ -44,4 +44,5 @@ All source code used for this project is available in this repository within mai
 - Data cleaning, preprocessing, and feature engineering scripts.
 - Implementation and hyperparameter tuning of Logistic Regression, Random Forest, and XGBoost classifiers.
 - Evaluation and result generation code.
-- (Please also refer to requirements.txt file if installs are needed on your machine.)
+- (Please run the terminal command `pip install -r requirements.txt` to install all required dependencies (e.g., xgboost) if they are not already installed on your machine.)
+
