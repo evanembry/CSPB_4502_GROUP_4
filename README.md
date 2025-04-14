@@ -31,7 +31,7 @@ The insights from this project can be applied in multiple ways:
 ## Additional Resources
 
 - **Video Demonstration (must download .7z file) **  
-  [Link to  Video Demonstration](#)  
+  [Link to  Video Demonstration](Group_4_Analytics_In_The_Octagon_Part6_Video.7z)  
  
 
 - **Final Project Paper:**  
