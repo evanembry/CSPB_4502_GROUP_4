@@ -35,7 +35,7 @@ The insights from this project can be applied in multiple ways:
  
 
 - **Final Project Paper:**  
-  [Link Final Project Paper](#)  
+  [Link Final Project Paper](Group_4_analytics_in_the_octagon_Part4.pdf)  
   
 
 ## Source Code
